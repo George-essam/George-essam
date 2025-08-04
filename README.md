@@ -1,5 +1,3 @@
-# who-is-George-
-
 # Hi there, I'm George 👨‍💻
 
 [![Huawei Badge](https://img.shields.io/badge/Huawei-FF0000?style=flat&logo=huawei&logoColor=white)](https://www.huawei.com)
